@@ -98,7 +98,9 @@ CUSTOM CUSTOM CUSTOM
 .h1, .h3 {
   text-align: center !important;
 }
-
+.card {
+  background-color: #B4DBC0 !important;
+}
 
 /*
 END CUSTOM End CUSTOM END CUSTOM
